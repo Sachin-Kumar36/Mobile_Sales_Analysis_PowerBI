@@ -1,5 +1,5 @@
 
-# Motorola Sales Analysis Dashboard | Power BI
+# Mobile Sales Analysis Dashboard | Power BI
 
 📊 **Project Overview**
 
